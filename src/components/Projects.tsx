@@ -49,6 +49,28 @@ const Projects = () => {
       ],
     },
     {
+      title: "AI-Powered Smart Attendance System",
+      description:
+        "An AI-driven real-time attendance system using Python, OpenCV, and face recognition to automate identity detection and attendance tracking with high accuracy and performance optimization.",
+      tech: [
+        "Python",
+        "OpenCV",
+        "Face Recognition",
+        "Google Sheets API",
+        "SMTP Email",
+      ],
+      github:
+        "https://github.com/bindalharsh/AI-Powered-Smart-Attendance-System",
+      date: "April 2024",
+      highlights: [
+        "Real-time AI attendance with face recognition",
+        "Fast, accurate ID via facial embeddings",
+        "Attendance stored in Google Sheets",
+        "Email alerts for attendance",
+        "Reliable end-to-end system",
+      ],
+    },
+    {
       title: "ChatApp",
       description:
         "A real-time chat application enabling 500+ users to register, exchange messages, and communicate securely. Features multi-factor authentication, Ajax-powered auto-scroll interface, and efficient session management.",
@@ -102,20 +124,20 @@ const Projects = () => {
         "Responsive design for desktop and mobile",
       ],
     },
-    {
-      title: "Bharat Intern Clone",
-      description:
-        "A clone of the Bharat Intern platform built using HTML, CSS, and JavaScript. It replicates the core UI and user experience, including homepage layout, internship listings, navigation menus, search functionality, and interactive buttons. The project demonstrates strong frontend development skills with focus on responsive design, modern layouts, and client-side interactivity without backend integration.",
-      tech: ["HTML", "CSS", "JavaScript"],
-      github: "https://github.com/bindalharsh/bharat-intern_clone",
-      date: "July 2023",
-      highlights: [
-        "Replicated homepage layout and internship listings",
-        "Implemented navigation menus and search functionality",
-        "Interactive buttons and client-side interactivity",
-        "Responsive and modern frontend design",
-      ],
-    },
+    // {
+    //   title: "Bharat Intern Clone",
+    //   description:
+    //     "A clone of the Bharat Intern platform built using HTML, CSS, and JavaScript. It replicates the core UI and user experience, including homepage layout, internship listings, navigation menus, search functionality, and interactive buttons. The project demonstrates strong frontend development skills with focus on responsive design, modern layouts, and client-side interactivity without backend integration.",
+    //   tech: ["HTML", "CSS", "JavaScript"],
+    //   github: "https://github.com/bindalharsh/bharat-intern_clone",
+    //   date: "July 2023",
+    //   highlights: [
+    //     "Replicated homepage layout and internship listings",
+    //     "Implemented navigation menus and search functionality",
+    //     "Interactive buttons and client-side interactivity",
+    //     "Responsive and modern frontend design",
+    //   ],
+    // },
   ];
 
   return (
