@@ -124,7 +124,7 @@ const About = () => {
                 <div>
                   <h3 className="text-xl font-semibold mb-2">Location</h3>
                   <p className="text-slate-300">
-                    Current: South City-1, Sector 41, Gurugram, Haryana
+                    Current: HSR Layout, Bangalore, Karnataka, 560102
                   </p>
                   <p className="text-slate-300">
                     Native: 22, Nahar Kothi Jagner, Agra, Uttar Pradesh, 283115
